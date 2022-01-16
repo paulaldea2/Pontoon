@@ -2,7 +2,7 @@
 
 ## What is does?
 
-:clubs: Pontoon is an command-line Java application. The main attribute of this game is that the players are trying to get a hand of cards with the value 21 or less, but as close to 21 as possible if less than 21. A hand of cards with a value of more than 21 is ‘bust’ and is not valid.
+:clubs: Pontoon is a command-line Java application. The main attribute of this game is that the players are trying to get a hand of cards with the value 21 or less, but as close to 21 as possible if less than 21. A hand of cards with a value of more than 21 is ‘bust’ and is not valid.
 
 ## :hammer_and_wrench: How I built it?
 For the backend I used Java and I built 5 classes:
